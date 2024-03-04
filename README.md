@@ -2,7 +2,8 @@
 
 ## Description
 
-This extension (for Chromium-based Browsers) provides functionality related to automating login tasks in Pulchowk Login Portal.
+- This extension (for Chromium-based Browsers) provides functionality related to automating login tasks in Pulchowk Login Portal.
+- This extension is liter version of this extension. [Pulchowk-Wifi-Login-Automation---Chrome-Extension](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation---Chrome-Extension).
 
 ## Features
 
@@ -27,7 +28,7 @@ Once the extension is installed, it will automatically execute its functionality
 
 ### Troubleshooting
 
-If you encounter any issues or have suggestions for improvement, please feel free to open an issue on GitHub: [Issues](https://github.com/your_username/login-chrome-extension/issues).
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue on GitHub: [Issues](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/issues).
 
 ## License
 
