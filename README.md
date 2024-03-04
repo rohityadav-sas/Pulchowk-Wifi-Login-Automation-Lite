@@ -17,7 +17,8 @@
     ```bash
     git clone https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite
     ```
-2. Replace the username and password with your credentials in the ContentScript.js
+2. Replace the username and password with your credentials in the ContentScript.js.
+   ![Tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
 2. Open Google Chrome or (any other Chromium-based Browsers) and navigate to extensions page.
 3. Enable Developer mode using the toggle switch in the top right corner.
 4. Click on "Load unpacked" and select the directory where you cloned the repository.
