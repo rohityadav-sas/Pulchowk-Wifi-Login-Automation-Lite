@@ -1,8 +1,8 @@
 chrome.runtime.onMessage.addListener((data, sender, sendResponse) => {
   if (data.url.includes("8090")) {
     (async () => {
-      username.value = '079bct070';
-      password.value = '2022-2890';
+      username.value = 'yourusername';
+      password.value = 'yourpassword';
       loginbutton.click();
       let loginFailed = document.getElementById('statusmessage');
       setTimeout(async () => {
