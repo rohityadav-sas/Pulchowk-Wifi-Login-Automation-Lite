@@ -9,6 +9,7 @@
 
 - Automatically fills in username and password fields on login portal.
 - Provides a mechanism to handle login failures and retries with different credentials.
+- Automatically closes the tab after the login.
 
 ## Installation
 
