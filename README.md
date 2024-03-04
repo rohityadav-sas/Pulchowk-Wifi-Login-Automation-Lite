@@ -32,8 +32,3 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- This extension was developed using the Chrome Extension API.
-- Special thanks to OpenAI for providing guidance and support.
