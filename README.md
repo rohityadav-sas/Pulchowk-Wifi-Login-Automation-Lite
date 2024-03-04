@@ -8,7 +8,7 @@ This extension (for Chromium-based Browsers) provides functionality related to a
 
 - Automatically fills in username and password fields on login portal.
 - Provides a mechanism to handle login failures and retries with different credentials.
-- 
+
 ## Installation
 
 1. Clone the repository:
