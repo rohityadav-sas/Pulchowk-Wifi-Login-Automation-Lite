@@ -1,4 +1,13 @@
 # Login Chrome Extension
+A Chrome extension for automating login to a portal.
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ## Description
 
@@ -14,14 +23,16 @@
 ## Installation
 
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite
-    ```
+
 2. Replace the username and password with your credentials in the ContentScript.js.
-   ![Tutorial.gif](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/blob/master/assets/tutorial.gif?raw=true)
+   ![tutorial.gif](./assets/tutorial.gif)
+
 2. Open Google Chrome or (any other Chromium-based Browsers) and navigate to extensions page.
+
 3. Enable Developer mode using the toggle switch in the top right corner.
+
 4. Click on "Load unpacked" and select the directory where you cloned the repository.
 
 ## Usage
