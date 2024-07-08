@@ -27,7 +27,7 @@ A Chrome extension for automating login to a portal.
     git clone https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite
 
 2. Replace the username and password with your credentials in the ContentScript.js.
-   ![tutorial.gif](./assets/tutorial.gif)
+   ![tutorial.gif](./assets/tutorial.gif?raw=true)
 
 2. Open Google Chrome or (any other Chromium-based Browsers) and navigate to extensions page.
 
