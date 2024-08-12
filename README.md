@@ -6,8 +6,8 @@ A Chrome extension for automating login to a portal.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
 - [License](#license)
+- [Contributing](#contributing)
 
 ## Description
 
@@ -41,10 +41,10 @@ A Chrome extension for automating login to a portal.
 
 Once the extension is installed, it will automatically execute its functionality when you visit login portal.
 
-### Troubleshooting
-
-If you encounter any issues or have suggestions for improvement, please feel free to open an issue on GitHub: [Issues](https://github.com/rohityadav-sas/Pulchowk-Wifi-Login-Automation-Lite/issues).
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License. See the [LICENSE](./LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
